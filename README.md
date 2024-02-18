@@ -7,7 +7,7 @@ Eventually.
 ======
 
 ### Collabadge
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phillipslucas/GEOG510/blob/Initial/Examples/map.ipynb#scrollTo=OpQnAZ4A352r)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phillipslucas/510Lab2/blob/Main/jupyter.ipynb#scrollTo=tn9PdonqoDRo)
 
 
 
